@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header__left{
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    display: flex;
+}
+.adress{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
