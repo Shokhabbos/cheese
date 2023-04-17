@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+}
+.header__list{
+    display: flex;
+}
+.header__link{
+    padding-left: 25px;
+}
+a{
+    color: black;
+}
+div{
+    color: slategray;
+}
+.wrapper{
+    margin-left: 200px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+input{
+    border: none;
+    width: 250px;
+}
