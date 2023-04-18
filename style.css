@@ -1,0 +1,86 @@
+/* Bismillah */
+
+section{
+    border-bottom: 1px solid #C2C2C2;
+}
+.section__container{
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 16px;
+    margin-top: 24px;
+    
+}
+
+.section__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section__left{
+    display: flex;
+    align-items: center;
+}
+
+ .section__main{
+    display: flex;
+    margin-left: 17px;
+} 
+
+.section__middle{
+    display: flex;
+}
+
+.section__middle img{
+    margin-left: 7px;
+    
+}
+.img{
+    margin-top: 25px;
+}
+
+.section__middle-main{
+    margin-left: 7px;
+}
+
+.section__left p{
+    color: #808080;
+    margin-left: 5px;
+}
+
+.section__number a{
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+
+.section__number button{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    color: #FD9339;
+    background-color: #FFFBED;
+    margin-left: 20px;
+    border-radius: 4px;
+    border-color:#FD9339;
+    padding: 8px 24px 8px 8px;
+    height: 40px;
+    width: 136px;
+    /* need to check padding */
+}
+
+.section__end{
+    display: flex;
+}
+
+.section__end-price span{
+    color: #FD9339;
+    font-size: 22px;
+
+}
+
+.section__end img{
+    margin-top: 12px;
+    margin-left: 5px;
+}
